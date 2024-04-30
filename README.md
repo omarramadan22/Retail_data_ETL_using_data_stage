@@ -1,9 +1,20 @@
 - This project contains data scource of retail store data which consists of one fact table :
-1 - Transaction fact table  
+
+- 
+1 - Transaction fact table
+
+  
 and 3 diemnsions :
+
+
 1 - customer dim
+
+
 2 - product dim
+
+
 3 - retail dim 
+
 
 - This is the project requirements : 
 

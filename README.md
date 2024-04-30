@@ -1,6 +1,6 @@
 - This project contains data scource of retail store data which consists of one fact table :
 
-- 
+
 1 - Transaction fact table
 
   

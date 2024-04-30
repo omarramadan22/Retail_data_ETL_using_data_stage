@@ -43,4 +43,9 @@ Equation = Annual_Incomek$* SpendingScore*100
 
 - -these are screenshots of the 3 jobs :
 
-![first_job]()
+![first_job](https://github.com/omarramadan22/Retail_data_ETL_using_data_stage/blob/main/datastage_2.jpeg)
+
+![second_job](https://github.com/omarramadan22/Retail_data_ETL_using_data_stage/blob/main/datastage.jpeg)
+
+![bonus_job](https://github.com/omarramadan22/Retail_data_ETL_using_data_stage/blob/main/datastage_1.jpeg)
+

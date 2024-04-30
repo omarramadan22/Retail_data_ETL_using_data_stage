@@ -39,4 +39,8 @@ Named DataMart “ACTIVATION_SALES_DATA_MART”
 • Based on which customer make profit , give them Bouns  
 Equation = Annual_Incomek$* SpendingScore*100
 
-- I provided in this repo the 3 jobs that I created using data stage to answer the required business questions 
+- I provided in this repo the 3 jobs that I created using data stage to answer the required business questions
+
+- -these are screenshots of the 3 jobs :
+
+![first_job]()
